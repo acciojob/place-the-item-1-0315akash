@@ -4,6 +4,7 @@
     background-color: crimson;
     display: flex;
     justify-content: center;
+	flex-direction:row;
     
 
     
