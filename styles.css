@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.container{
+    background-color: crimson;
+    display: flex;
+    justify-content: center;
+    
+
+    
+    
+}
+
+.container>div{
+    width: 100%;
+    background-color: chartreuse;
+    margin: 10px;
+    height: 50px;
+   
+    
+}
