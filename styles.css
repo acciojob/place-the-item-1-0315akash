@@ -1,10 +1,11 @@
 
 /* Your CSS Code here. */
 .container{
-    background-color: crimson;
-    display: flex;
-    justify-content: center;
+    display:flex;
 	flex-direction:row;
+	justify-content:space-between;
+	
+	
     
 
     
